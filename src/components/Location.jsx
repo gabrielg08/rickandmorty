@@ -31,7 +31,7 @@ const handleSubmit = (e) =>{
 
 
         {/*Location info */}
-      <div className='border-2 border-green-400 mt-12 text-center'>  
+      <div className='border-2 border-green-400 mt-12 text-center w-[100%] max-w-5xl mx-auto py-10'>  
       <h3 className='text-green-600 mt-3 mb-6'>¡Welcome To{location?.name}!</h3>
 
       <ul className='flex justify-between m-8'>
